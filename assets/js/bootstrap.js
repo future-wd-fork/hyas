@@ -1,3 +1,4 @@
+// As bootstrap is a larger js library it is loaded async seperate to main.js
 'use strict';
 
 // bootstrap js - import the whole library
