@@ -87,3 +87,7 @@ toLower = false
   weight = 10
 
 
+[module]
+[[module.imports]]
+  path = "github.com/powerfulweb/hugo-image" 
+
